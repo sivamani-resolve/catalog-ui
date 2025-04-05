@@ -7,3 +7,5 @@ alert("This is the third feature in the app.js file.");
 alert("This is the fourth feature in the app.js file.");
 
 alert("This is the fifth feature in the app.js file.");
+
+alert("This is the sixth feature in the app.js file.");
